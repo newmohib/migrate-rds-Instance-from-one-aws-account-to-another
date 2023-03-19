@@ -102,9 +102,10 @@
 5.Status Creating
 6.When Available then Successfully created
 7.Got to this database => copy Endpoint and port => try to connect this database with this end point
+
 ```
 
-<img src="images/image8.png" alt="after-restore-db width="700">
+<img src="images/image8.png" alt="after-copy-snapshot" width="700">
 
 #### Need to Share this KMS key with another account owner. where this shapshot will Restore
 
