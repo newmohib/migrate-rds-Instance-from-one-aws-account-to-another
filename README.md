@@ -34,7 +34,7 @@
   c.Got to your Region like (Sydney to Singapore ) which region select for snapshot
   
 ```
-<img src="images/1-copy-snapshot.png" alt="copy-snapshot" width="700">
+<img src="images/image1.png" alt="copy-snapshot" width="700">
 
 #### Share With Another account
 
@@ -49,7 +49,7 @@
 7.Share this ARM key with another account, which is using this snapshot-like (819096608765) this user.
 
 ```
-<img src="images/2-snapshot-permission.png" alt="snapshot-permission" width="700">
+<img src="images/image2.png" alt="snapshot-permission" width="700">
 
 #### Need to Create a Security Group for access DB
 ```
@@ -61,7 +61,7 @@
 5.Create security group
 
 ```
-<img src="images/3-creat-security-group.png" alt="snapshot-permission" width="700">
+<img src="images/image3.png" alt="snapshot-permission" width="700">
 
 #### In new instance
 
@@ -71,7 +71,7 @@
 3.Select snapshot => Actions => copy Snapshot
 
 ```
-<img src="images/4-snapshot.png" alt="snapshot" width="700">
+<img src="images/image4.png" alt="snapshot" width="700">
 
 ```
 4.Select destination Region
@@ -86,13 +86,13 @@
   f.Select Existing VPC security groups (which one is you create exists) all-db-security-for-postgresql
 
 ```
-<img src="images/5-vps-security.png" alt="vps-security" width="700">
+<img src="images/image5.png" alt="vps-security" width="700">
 
-<img src="images/6-copy-snapshot.png" alt="copy-snapshot" width="700">
+<img src="images/image6.png" alt="copy-snapshot" width="700">
 
 #### After copy like this img
 
-<img src="images/7-after-copy-snapshot.png" alt="after-copy-snapshot" width="700">
+<img src="images/image7.png" alt="after-copy-snapshot" width="700">
 
 ```
 1.When status is Available then
@@ -104,7 +104,7 @@
 7.Got to this database => copy Endpoint and port => try to connect this database with this end point
 ```
 
-<img src="images/8-restore-db.png" alt="after-restore-db width="700">
+<img src="images/image8.png" alt="after-restore-db width="700">
 
 #### Need to Share this KMS key with another account owner. where this shapshot will Restore
 
